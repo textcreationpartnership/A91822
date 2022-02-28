@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the great victory, obtained by Gods providence, by the Parliaments forces in Lancashire against the forces raised by the King in the counties of Westmerland and Cumberland; where they took Thurland-castle, and in the fight took of the enemy, Col: Huddleston, 2 captains, an ensigne, 400 prisoners, 7 colours, kill'd many, drove many into the sea, took their magazine, divers arms and horses, and totally routed them. Sent in a letter by Colonell Rigby, a Member of the House of Commons, to the Honorable, William Lenthall Esquire, Speaker of the said House. Ordered by the Commons in Parliament, that this relation be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Rigby, Alexander, 1594-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91822</idno>
+            <idno type="STC">Wing R1472</idno>
+            <idno type="STC">Thomason E76_12</idno>
+            <idno type="STC">ESTC R14816</idno>
+            <idno type="EEBO-CITATION">99859738</idno>
+            <idno type="PROQUEST">99859738</idno>
+            <idno type="VID">111834</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111834)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E76[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the great victory, obtained by Gods providence, by the Parliaments forces in Lancashire against the forces raised by the King in the counties of Westmerland and Cumberland; where they took Thurland-castle, and in the fight took of the enemy, Col: Huddleston, 2 captains, an ensigne, 400 prisoners, 7 colours, kill'd many, drove many into the sea, took their magazine, divers arms and horses, and totally routed them. Sent in a letter by Colonell Rigby, a Member of the House of Commons, to the Honorable, William Lenthall Esquire, Speaker of the said House. Ordered by the Commons in Parliament, that this relation be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Rigby, Alexander, 1594-1650.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>November 20. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Alex: Rigby. Preston in Lancashire, this 17th of Octo: 1643.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Lancashire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111834:1"/>
+            <pb facs="tcp:111834:1" rendition="simple:additions"/>
+            <p>
+               <hi>A TRVE</hi> RELATION OF The great Victory, Obtained by Gods Providence, by the Parliaments Forces in LANCASHIRE, Againſt the Forces raiſed by the King, in the counties of <hi>Weſtmerland</hi> and <hi>Cumberland;</hi> Where they took Thurland-caſtle, and in the Fight took of the Enemy, Col: <hi>Huddleſton,</hi> 2 Captains, an Enſigne, 400 Priſoners, 7 Colours, kil'd many, drove many into the Sea, took their Magazine, divers Arms and Horſes and totally routed them.</p>
+            <p>Sent in a Letter by Colonell <hi>Rigby,</hi> a Member of the Houſe of Commons, To the Honorable, <hi>Wil<g ref="char:EOLhyphen"/>liam Lenthall Eſquire,</hi> Speaker of the ſaid Houſe.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons in Parliament, That this Re<g ref="char:EOLhyphen"/>lation be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: <hi>Elſynge, Cler. Parl. D. Com.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Edward Husbands,</hi> November 20. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111834:2"/>
+            <pb n="3" facs="tcp:111834:2"/>
+            <head>A true Relation of the Great Victory ob<g ref="char:EOLhyphen"/>tained by Gods Providence, by the Par<g ref="char:EOLhyphen"/>liament Forces, &amp;c.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>That I may give you an account of our pro<g ref="char:EOLhyphen"/>ceedings at Thurland, you may underſtood that Sir <hi>Iohn Girlington</hi> having drawn <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> into his Caſtle of Thurland, he began to pl<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> the Countrey, and to commit Robberie and Murthers, and thereupon for the ſuppreſsion of him and his adherents, I repaired thither, and af<g ref="char:EOLhyphen"/>ter ſeven weeks ſtraight ſiege of the Caſtle, it was delivered unto me, to be demoliſhed upon agreement, to ſuffer him and all his in the Ca<g ref="char:EOLhyphen"/>ſtle, to paſſe away with their lives, and goods: Du<g ref="char:EOLhyphen"/>ring moſt part of the ſiege, the greateſt part of the Forces of Weſtmerland lay within our view, and daily threatned us; but God confined them to their own County, and every day more,
+<pb n="4" facs="tcp:111834:3"/>
+and more inclined the hearts of the Commons of Weſtmerland to decline any Attempt upon us, though we then lay in an Out Angle of our County, far from Sapplies, and whileſt theſe things were in ſuſpence, a Deſigne was ſet on foot by all the Malignant Gentry of Weſtmer<g ref="char:EOLhyphen"/>land and Cumberland, and by <hi>Roger Kirby,</hi> and <hi>Alexander Rigby</hi> of the Burghe, two Lancaſhire men, to raiſe all the Forces of Cartmell and Fournes, part of Lancaſhire, to joyn with Cum<g ref="char:EOLhyphen"/>berland and Weſtmerland, to ſurpriſe Lancaſter and Hornby Caſtles, and to aſſault us on all ſides, and to raiſe our Siege, and then to proceed fur<g ref="char:EOLhyphen"/>ther into Lancaſhire, and (as upon credible in<g ref="char:EOLhyphen"/>formation I beleeve) to joyn with <hi>Latham</hi> houſe, and all the ill affected in our County, to our ge<g ref="char:EOLhyphen"/>nerall devaſtation. And for this end, they drew together part of Cumberland forces into Fournes, and with them the Strength of that place, to a<g ref="char:EOLhyphen"/>bout the number of ſixteen hundred, intending the next day to March into Cartmell towards us, and there to adde to their forces, and in their way, they took and impriſoned divers of the beſt affected, and cauſed the reſt of them to flie out of the Country, who poſting to us, I forth<g ref="char:EOLhyphen"/>with
+<pb n="5" facs="tcp:111834:3"/>
+took five hundred foot, two Drakes and three ſmall Troops of Horſe, parcell of my Forces at Thurland, and with them in one day, I Marched almoſt thirty miles, over mountaines, and through Sea-ſands, and waters, within two miles of the Enemie, and the next morning being the Lords day, we found the Enemy in the Field, ſtanding with a Body of Horſe, and ano<g ref="char:EOLhyphen"/>ther of Foot, in a poſture to receive us, upon a ground choſen for their own advantage: &amp; when we were within half a mile of them, we com<g ref="char:EOLhyphen"/>mitted our ſelves to Gods protection, and began our work with publike prayers for his bleſsing upon us: And thoſe done, we ſpeeded unto the Enemy, with ſuch Reſolution and Cou<g ref="char:EOLhyphen"/>rage in all the Captains, and Common Soul<g ref="char:EOLhyphen"/>diers, as by their deportment, I might have rather deemed, that they had made haſt to have ſaluted their friends, then to have encoun<g ref="char:EOLhyphen"/>tred their enemies: the enemie, word was (<hi>In with</hi> Quecn <hi>Mary</hi>) ours was (<hi>God with us</hi>) and at our firſt appearance, God ſo ſtruck the hearts of theſe our enemie, with terrour, that before a blow given, their Horſe begun to retreat, our foot gave a great ſhout, our Horſe purſued, theirs fled;
+<pb n="6" facs="tcp:111834:4"/>
+their foot diſperſed, and fled; they all truſted more to their feet, then their hands; they threw away their Arms and Colours, deſerted their ma<g ref="char:EOLhyphen"/>gazin drawn with eight oxen, and were totally routed in one quarter of an hours time; our horſe ſlew ſome few of them in the purſuit, and drave many of them into the Sea; wee took their Co<g ref="char:EOLhyphen"/>lonel <hi>Hudleſton</hi> of Millam, two Captains, and an Enſign, and about foure hundred Priſoners, ſix foot Colours, and one horſe Colour; and their Magazin, and ſome horſes, and more arms then men: and all this without the loſſe of any one man of ours; wee had only one man hurt by the Enemy, and only another hurt by himſelfe with his own Piſtoll, but neither mortally; upon the cloſe of the buſines, all our men with a great ſhout cryed out, Glory be to God; and wee all, except one Troop of horſe, and one foot Company, which I left to quiet the Countrey, returned forthwith towards our ſiege at Thur<g ref="char:EOLhyphen"/>land; moſt of our Horſe-men without alight<g ref="char:EOLhyphen"/>ing from our horſes, and moſt of us all, without eating or drinking; ſo that early the next day wee came again to Thurland, where we found our ſiege continued, within view of more then
+<pb n="7" facs="tcp:111834:4"/>
+treble forces from Weſtmerland, this worke in Fournes had that influence upon all the Caſtlers, and all the Gentry of Weſtmerland, and Cum<g ref="char:EOLhyphen"/>berland, who then lay within our fight at Kirby-Loynsdale, that within two dayes after, the Ca<g ref="char:EOLhyphen"/>ſtle was by the Negotiation of Sir <hi>Philip Muſgrave,</hi> then commanding in chiefe in Weſtmerland and Cumberland, agreed to be rendred unto me, to be demoliſhed, which is accordingly done: And though I endeavoured to have preſerved all the combuſtible materials therin from fire, yet I could not therein prevaile with the common ſouldiers without great diſpleaſure.</p>
+            <p>My humble ſuit now is, to have the order of the Houſe of Commons for my indemp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity, for demoliſhing of the Caſtle: And becauſe Colo<g ref="char:EOLhyphen"/>nel <hi>Hudleſton</hi> (who yet hath a Regiment in York<g ref="char:EOLhyphen"/>ſhire, in or neer Hallifax) is as I heare Serjeant Major Generall of Cumberland; and the moſt conſiderable man in Cumberland, and our next neighbour to Lancaſhire, and one whom with<g ref="char:EOLhyphen"/>out further danger to the peace of our countie, I cannot conceive can be kept Priſoner here, I have therefore preſumed to ſend him uno you, under the care and cuſtody of Mr. <hi>Robert Fog,</hi> of
+<pb n="8" facs="tcp:111834:5"/>
+whoſe induſtry and fidelity, both you and wee here have had much experience: Sir, that God may bleſſe, and proſper all your deſigns, and pro<g ref="char:EOLhyphen"/>ceedings for his glory, and the peace of this King<g ref="char:EOLhyphen"/>dom, is the daily prayer of</p>
+            <closer>
+               <signed>Your moſt humble Servant, ALEX: RIGBY.</signed>
+               <dateline>Preſton in Lancaſhire, <date>this 17 of Octo: 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
